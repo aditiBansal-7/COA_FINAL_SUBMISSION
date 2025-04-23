@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a19eb789-decf-403c-83d0-000a77637fa7)# Full Stack App Using Docker 🐳🌐
+# Full Stack App Using Docker 🐳🌐
 
 In this project, we will deploy a **Full Stack Application** using **Docker**. The application consists of a **Streamlit frontend** and a **PostgreSQL database backend**, both running in separate Docker containers. These containers will communicate via a custom Docker network, ensuring seamless interaction between the frontend and the database.
 
@@ -207,6 +207,7 @@ docker run --name streamlit_app --network my_network -p 8501:8501 my_streamlit_a
 
 ![image](https://github.com/user-attachments/assets/dce992d7-33cf-471a-8281-e80a1e663ba6)
 
+![image](https://github.com/user-attachments/assets/6934f6d0-5b23-40a5-8b28-3b22012b60e1)
 
 
 ## Conclusion 🎉
