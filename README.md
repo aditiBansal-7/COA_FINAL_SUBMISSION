@@ -205,6 +205,7 @@ Run the following command to start the Streamlit app:
 docker run --name streamlit_app --network my_network -p 8501:8501 my_streamlit_app
 ```
 
+
 ## Conclusion 🎉
 
 Congratulations! 🎉 You’ve successfully deployed a full-stack application using Docker. This setup ensures that your application is portable, scalable, and independent of the underlying system. Docker and Streamlit together provide a powerful combination for building and deploying data-driven applications.
